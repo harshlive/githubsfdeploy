@@ -95,7 +95,7 @@ function load()
 				</div>
 				<div class="slds-media__body">
 				  <p class="slds-page-header__title slds-truncate slds-align-middle">GitHub Salesforce Deploy Tool</p>
-				  <p class="slds-text-body--small slds-page-header__info">Deploy directly from GitHub to Salesforce <a target="_new" href="http://andyinthecloud.com/category/githubsfdeploy/" class="brand" id="heroku"><strong>andyinthecloud</strong></a></p>
+				  <p class="slds-text-body--small slds-page-header__info">Deploy directly from GitHub to Salesforce</p>
 				</div>
 			</div>			
 		</div>
